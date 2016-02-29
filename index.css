@@ -9,7 +9,7 @@ h1 {
 	font-family:"helvetica neue";
 	font-size:4.5vw;
 	margin:10px 0px 0px 20px;
-	height:400px;
+	height:50%;
 	letter-spacing:-4px;
 	word-spacing:20px;
 }
@@ -26,6 +26,9 @@ h1 {
 	color:#292929;
 	list-style:none;
 	line-height:25px;
+}
+li {
+	color:#000000;
 }
 #main {
 	float:left;
@@ -80,6 +83,8 @@ h3 {
 }
 #ulft {
 	list-style:none;
+	position:absolute;
+	bottom:0;
 }
 footer{
 	clear:both;

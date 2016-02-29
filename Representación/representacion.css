@@ -1,0 +1,90 @@
+@charset "utf-8";
+
+#wrapper{
+	width:1800px;
+	position:fixed;
+}
+
+h1 {
+	font-family:"helvetica neue";
+	font-size:88px;
+	margin:10px 0px 0px 20px;
+	height:400px;
+	letter-spacing:-4px;
+	word-spacing:20px;
+}
+	
+#ind1 {
+	font-family:"helvetica neue";
+	font-size:18px;
+	list-style:none;
+	height:300px;
+	line-height:30px;
+}
+#ind2 {
+	font-size:16px;
+	color:#292929;
+	list-style:none;
+	line-height:25px;
+}
+#imag {
+	float:right;
+	height:auto;
+	margin-right:150px;
+	margin-top:150px;
+}
+#ra1 {
+	float:right;
+	clear:both;
+}
+#ra2 {
+	float:right;
+	margin: 200px 250px 100px 0px;
+	clear:both;
+}
+#ra3 {
+	float:right;
+	margin: 300px 0px 0px 0px;
+	clear:both;
+}
+#fuente {
+	float:right;
+	margin: 300px 0px 0px 0px;
+	clear:both;
+}
+#taller {
+	float:right;
+	margin: 300px 0px 0px 0px;
+	clear:both;
+}
+#maq1 {
+	float:right;
+	margin: 400px 100px 0px 0px;
+	clear:both;
+}
+#maq2 {
+	float:right;
+	margin: 150px 190px 0px 0px;
+	clear:both;
+}
+#maq3 {
+	float:right;
+	margin: 180px 0px 0px 0px;
+	clear:both;
+}
+#maq4 {
+	float:right;
+	margin: 180px 300px 300px 0px;
+	clear:both;
+}
+#sidebar {
+	width:22%;
+	float:left;
+}
+#ulft {
+	list-style:none;
+}
+footer{
+	clear:both;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
