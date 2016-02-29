@@ -1,0 +1,87 @@
+@charset "utf-8";
+
+#wrapper{
+	width:1800px;
+	position:fixed;
+}
+
+h1 {
+	font-family:"helvetica neue";
+	font-size:4.5vw;
+	margin:10px 0px 0px 20px;
+	height:400px;
+	letter-spacing:-4px;
+	word-spacing:20px;
+}
+	
+#ind1 {
+	font-family:"helvetica neue";
+	font-size:1.9vh;
+	list-style:none;
+	height:300px;
+	line-height:30px;
+}
+#ind2 {
+	font-size:1.6vh;
+	color:#292929;
+	list-style:none;
+	line-height:25px;
+}
+#main {
+	float:left;
+	margin: 200px 0px 0px 45%;
+}
+#t1 {
+	margin-top:150px;
+	font-family:Gotham, "Helvetica Neue thin", Helvetica, Arial, sans-serif;
+	font-size:35px;
+}
+h3 {
+	margin:0px 0px 17px 105px;
+	font-family:Gotham, "Helvetica Neue thin", Helvetica, Arial, sans-serif;
+	font-size:25px;
+}
+#t2 {
+	float:left;
+	text-align:right;
+	width:250px;
+	margin-left:-175px;
+	margin-top:-0px;
+	font-family:Gotham, "Helvetica", Helvetica, Arial, sans-serif;
+	list-style:none;
+}
+#t3 {
+	float:left;
+	width:60%;
+	margin-left:30px;	
+	margin-top:-0px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	list-style:none;
+}
+#t4 {
+	float:left;
+	width:130px;
+	margin-left:105px;	
+	margin-top:-0px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	list-style:none;
+}
+#t5 {
+	float:left;
+	width:100px;
+	margin-left:30px;	
+	margin-top:-0px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	list-style:none;
+}
+#sidebar {
+	width:22%;
+	float:left;
+}
+#ulft {
+	list-style:none;
+}
+footer{
+	clear:both;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
