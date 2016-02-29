@@ -7,7 +7,7 @@
 
 h1 {
 	font-family:"helvetica neue";
-	font-size:88px;
+	font-size:4.5vw;
 	margin:10px 0px 0px 20px;
 	height:400px;
 	letter-spacing:-4px;
@@ -16,13 +16,13 @@ h1 {
 	
 #ind1 {
 	font-family:"helvetica neue";
-	font-size:18px;
+	font-size:.95vw;
 	list-style:none;
 	height:300px;
 	line-height:30px;
 }
 #ind2 {
-	font-size:16px;
+	font-size:.8vw;
 	color:#292929;
 	list-style:none;
 	line-height:25px;
